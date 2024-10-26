@@ -1,0 +1,5 @@
+# Ignore all .exe files in the root directory
+*.exe
+
+# Ignore the .vscode directory
+.vscode/
